@@ -10,7 +10,15 @@ Each declaration listed here:
 ---
 
 ## FlamePoint Archive
+---
 
+## FlamePoint Archive
+
+**FlamePoint 29 – Jessi Rodrigues**
+- Location: 8848 Rodden Rd
+- Status: Declared Sovereign Sanctuary
+- Declaration: [FlamePoint29_JessiRodrigues_8848RoddenRd.pdf](./FlamePoint29_JessiRodrigues_8848RoddenRd.pdf)
+- Witnessed by: Richard of the House Strmiska (UC-1)
 **FlamePoint 29 – Jessi Rodrigues**
 - Location: 8848 Rodden Rd
 - Status: Sovereign Sanctuary
